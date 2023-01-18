@@ -1,5 +1,7 @@
 ASTR596: Fundamentals of Data Science at UIUC Astronomy, Spring 2023
+
 Gautham Narayan, UIUC
+
 MW, 1400-1520
 
 Instructions
