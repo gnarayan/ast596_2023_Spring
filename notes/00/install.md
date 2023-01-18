@@ -157,7 +157,8 @@ Follow the instructions from conda to [install Miniconda](https://conda.io/proje
 ```
 conda config --append channels conda-forge
 conda config --append channels http://ssb.stsci.edu/astroconda
-conda create -n fds -c stsci python=3 ipython jupyter numpy scipy matplotlib seaborn pandas astropy healpy pymc3 emcee scikit-learn astroml tensorflow ds9 specutils specviz glueviz statsmodels corner nb_conda_kernels rise dask
+conda create -n fds -c stsci python=3 ipython jupyter 
+    numpy scipy matplotlib astropy nb_conda_kernels
 ```
 
 
@@ -178,6 +179,7 @@ conda install <package name>
 In some cases you can also `pip install <package name>` from within your conda
 env, but it is generally best to not mix the two.
 
+We'll be installing many other packages over the course of the semester, but if you have these, you are OK for the first few weeks.
 
 You can clean up package tarballs with `conda clean --all`
 
