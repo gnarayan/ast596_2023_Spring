@@ -130,5 +130,5 @@ dmypy.json
 .DS_Store
 
 # Big files
-/homework/LiamNolan/cat_test.csv
-/homework/LiamNolan/cat_train.csv
+/homework/LiamNolan/06/cat_test.csv
+/homework/LiamNolan/06/cat_train.csv
