@@ -128,3 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 .DS_Store
+
+# Big files
+/homework/LiamNolan/06/cat_test.csv
+/homework/LiamNolan/06/cat_train.csv
